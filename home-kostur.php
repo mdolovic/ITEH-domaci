@@ -14,7 +14,7 @@
 <body>
 
 
-<div class="jumbotron" style="color: black;"><h1>Fakultet organizacionih nauka</h1></div> 
+<div class="jumbotron" style="color: black;"><h1>Fakultet organizacionih nauka FON</h1></div> 
 
 <div class="row" style="background-color: rgba(225, 225, 208, 0.5);">
     <div class="col-md-4">
